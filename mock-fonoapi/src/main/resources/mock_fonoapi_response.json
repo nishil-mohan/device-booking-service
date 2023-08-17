@@ -1,0 +1,65 @@
+{
+  "Samsung Galaxy S9": {
+    "model": "Samsung",
+    "technology": "4G",
+    "band2G": "Mock 2G Bands for Samsung Galaxy S9",
+    "band3G": "Mock 3G Bands for Samsung Galaxy S9",
+    "band4G": "Mock 4G Bands for Samsung Galaxy S9"
+  },
+  "2x Samsung Galaxy S8": {
+    "model": "Samsung",
+    "technology": "5G",
+    "band2G": "Mock 2G Bands for 2x Samsung Galaxy S8",
+    "band3G": "Mock 3G Bands for 2x Samsung Galaxy S8",
+    "band4G": "Mock 4G Bands for 2x Samsung Galaxy S8"
+  },
+  "Motorola Nexus 6": {
+    "model": "Motorola",
+    "technology": "5G",
+    "band2G": "Mock 2G Bands for Motorola Nexus 6",
+    "band3G": "Mock 3G Bands for Motorola Nexus 6",
+    "band4G": "Mock 4G Bands for Motorola Nexus 6"
+  },
+  "Oneplus 9": {
+    "model": "Oneplus",
+    "technology": "5G",
+    "band2G": "Mock 2G Bands for Oneplus 9",
+    "band3G": "Mock 3G Bands for Oneplus 9",
+    "band4G": "Mock 4G Bands for Oneplus 9"
+  },
+  "Apple iPhone 13": {
+    "model": "Apple",
+    "technology": "5G",
+    "band2G": "Mock 2G Bands for Apple iPhone 13",
+    "band3G": "Mock 3G Bands for Apple iPhone 13",
+    "band4G": "Mock 4G Bands for Apple iPhone 13"
+  },
+  "Apple iPhone 12": {
+    "model": "Apple",
+    "technology": "5G",
+    "band2G": "Mock 2G Bands for Apple iPhone 12",
+    "band3G": "Mock 3G Bands for Apple iPhone 12",
+    "band4G": "Mock 4G Bands for Apple iPhone 12"
+  },
+  "Apple iPhone 11": {
+    "model": "Apple",
+    "technology": "5G",
+    "band2G": "Mock 2G Bands for Apple iPhone 11",
+    "band3G": "Mock 3G Bands for Apple iPhone 11",
+    "band4G": "Mock 4G Bands for Apple iPhone 11"
+  },
+  "iPhone X": {
+    "model": "Apple",
+    "technology": "5G",
+    "band2G": "Mock 2G Bands for iPhone X",
+    "band3G": "Mock 3G Bands for iPhone X",
+    "band4G": "Mock 4G Bands for iPhone X"
+  },
+  "Nokia 3310": {
+    "model": "Nokia",
+    "technology": "5G",
+    "band2G": "Mock 2G Bands for Nokia 3310",
+    "band3G": "Mock 3G Bands for Nokia 3310",
+    "band4G": "Mock 4G Bands for Nokia 3310"
+  }
+}

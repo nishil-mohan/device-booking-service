@@ -1,0 +1,10 @@
+[
+    {
+        "DeviceName": "Mock Device",
+        "Brand": "Mock Brand",
+        "Technology": "Mock Technology",
+        "2g_bands": "Mock 2G Bands",
+        "3g_bands": "Mock 3G Bands",
+        "4g_bands": "Mock 4G Bands"
+    }
+]
